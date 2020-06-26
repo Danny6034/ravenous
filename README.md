@@ -1,3 +1,7 @@
+## API call
+
+To call data from the Yelp API, copy the Yelp.js file into /src/util/ and insert your API key from https://docs.developer.yelp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
